@@ -1,4 +1,10 @@
 target/
+.metadata/
+.project
+.settings/
+.springBeans
+RemoteSystemsTempFiles/
+
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
